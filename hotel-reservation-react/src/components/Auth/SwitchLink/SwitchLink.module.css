@@ -1,0 +1,9 @@
+.Switch {
+  float: right;
+  font-family: Bookman, URW Bookman L, serif;
+}
+
+.Link {
+  color: tomato;
+  cursor: pointer;
+}

@@ -1,0 +1,19 @@
+.AddRoom {
+  padding: 50px;
+}
+.FormContainer {
+  padding: 30px 70px;
+  max-width: 600px;
+  border: 1px solid #3a405a;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  /* overflow-y: auto; */
+  background-color: #cdcfd9;
+
+  height: 520px;
+}
+.FormItem {
+  color: #3a405a;
+  font-family: Bookman, URW Bookman L, serif;
+  margin-top: -19px;
+}

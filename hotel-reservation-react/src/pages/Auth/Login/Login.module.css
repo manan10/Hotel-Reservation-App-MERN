@@ -1,0 +1,13 @@
+.Switch {
+  float: right;
+}
+
+.Link {
+  color: tomato;
+  cursor: pointer;
+}
+.Form {
+  color: #3a405a;
+  font-family: Bookman, URW Bookman L, serif;
+  margin-top: -10px;
+}

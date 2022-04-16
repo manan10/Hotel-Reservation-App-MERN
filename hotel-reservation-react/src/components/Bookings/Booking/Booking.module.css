@@ -1,0 +1,23 @@
+.Booking {
+    background-color: #3a405a;
+    padding: 20px 50px;
+    margin-bottom: 10px;
+    color: white;
+    line-height: 0.8;
+}
+
+.Button {
+    background-color: #b4646f;
+    color: white;
+    margin-bottom: 20px;
+}
+
+.Button:hover {
+    border-color: #3a405a;
+    color: black;
+    background-color: white;
+}
+
+.Room {
+    padding: 20px 200px;
+}

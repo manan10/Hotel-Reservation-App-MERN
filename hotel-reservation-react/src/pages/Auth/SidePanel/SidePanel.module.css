@@ -1,0 +1,20 @@
+.SidePanel {
+    
+}
+
+.Heading {
+    display: block;
+    font-family: Acme;
+    margin-top: 200px;
+    
+}
+
+.SidePanel h2,
+.SidePanel h5 {
+    font-weight: bolder;
+    text-align: center;
+}
+
+.SidePanel h5 {
+    margin-top: -15px;
+}

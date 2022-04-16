@@ -1,0 +1,16 @@
+.Btn {
+  background-color: #b4646f;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+}
+.Btn:hover {
+  border-color: #3a405a;
+  color: black;
+}
+.Search {
+  border-color: #3a405a;
+}
+.Search:hover {
+  border: 1px solid #3a405a;
+}

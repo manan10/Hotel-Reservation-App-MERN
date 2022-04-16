@@ -1,0 +1,27 @@
+.CartItem {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    padding: 10px;
+    border: 2px solid #3a405a;
+    margin-bottom: 10px;
+    background-color: #3a405a;
+    color: white;
+    font-family: Bookman, URW Bookman L, serif;
+}
+
+.Image {
+    height: 200px;
+    width: 200px;
+    border: 3px solid #3a405a;
+}
+
+.Btn {
+    background-color: #b4646f;
+    color: white;
+    /* text-align: center; */
+}
+.Btn:hover {
+    border-color: #3a405a;
+    color: black;
+}

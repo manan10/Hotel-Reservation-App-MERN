@@ -1,0 +1,13 @@
+.Home {
+  padding: 30px 80px;
+}
+.Btn {
+  background-color: #b4646f;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+}
+.Btn:hover {
+  border-color: #3a405a;
+  color: black;
+}

@@ -1,0 +1,15 @@
+.Logo {
+  padding: 8px;
+  width: 60px;
+}
+
+.LogoText {
+  font-family: "Kaushan Script", cursive;
+  font-weight: 550;
+  font-size: x-large;
+  vertical-align: middle;
+  color: black;
+}
+.navbar-dark .navbar-nav .nav-link {
+  color: white !important;
+}

@@ -1,0 +1,26 @@
+.Card {
+  cursor: pointer;
+  border: 3px solid #3a405a;
+  color: #3a405a;
+}
+.CardBody {
+  font-family: Georgia, serif;
+}
+
+.Image {
+  /* border: 2px solid #3a405a; */
+
+  height: 150px;
+}
+
+.Button {
+  background-color: #b4646f;
+  color: white;
+  text-align: center;
+  font-size: 13px;
+  min-width: 90px;
+}
+.Button:hover {
+  border-color: #3a405a;
+  color: black;
+}

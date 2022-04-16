@@ -1,0 +1,39 @@
+/* .SideDrawer {
+    background-image: url('../../assests/images/1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: 0.5;
+    z-index: -1;
+} */
+
+.SideDrawer {
+  display: block;
+  position: relative;
+}
+
+.SideDrawer::after {
+  content: "";
+  background: url("../../assests/images/logo.png");
+  background-repeat: round;
+  /* background-size:cover; */
+  opacity: 1;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: 1;
+}
+
+.FormContainer {
+  padding: 50px 70px;
+  max-width: 600px;
+  border: 1px solid #3a405a;
+  margin-top: 50px;
+  margin-bottom: 50px;
+  /* overflow-y: auto; */
+  /* background-color: #cdcfd9; */
+  background: url("../../assests/images/logo.png");
+  background-repeat: no-repeat;
+  height: 480px;
+}
